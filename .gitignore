@@ -1,0 +1,45 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+
+# Directory for built files
+/build/
+*/build/
+.artifacts/
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle files
+.gradle/
+gradle-app.setting
+
+# Local configuration file (sdk path, secrets, etc.)
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# OS Specific Files
+.DS_Store
+Thumbs.db
+
+# Signing files & Key stores
+*.jks
+*.keystore
+signing.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
